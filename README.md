@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tulasi-das
-- 👀 I’m interested in real time projects
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on web dev projects
+- 👀 I’m interested in working on real time projects
+- 🌱 I’m currently working as a Software Engineer at Aptean
+- 💞️ I love to colloborate on projects that provides value to the customers
 - 📫 How to reach me dasbiradar1999@gmail.com
 
 <!---
